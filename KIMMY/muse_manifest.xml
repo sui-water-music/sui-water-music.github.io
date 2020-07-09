@@ -1,0 +1,71 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://sui-water-music.github.io" resolutions="1x,2x" timestamp="1594316556051">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="350415866" ref="index"/>
+    <file name="3.css" crc="4121251489" ref="3"/>
+    <file name="1.css" crc="309655504" ref="1"/>
+    <file name="2.css" crc="4254283052" ref="2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1:2:3"/>
+    <file name="museutils.js" crc="340535759" ref="index:1:2:3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:1:2:3"/>
+    <file name="museconfig.js" crc="310584261" ref="index:1:2:3"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:1:2:3"/>
+    <file name="require.js" crc="7928878" ref="index:1:2:3"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="3874393455" ref="index"/>
+    <file name="sui-kimmy.png" crc="3853081524" seo="true" ref="1:2:3">
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="sui-kimmy_2x.png" crc="4056280416" seo="true" ref="1:2:3">
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="sui-drop.png" crc="3771806826" seo="true" ref="1:2:3">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="sui-note.png" crc="4118866672" seo="true" ref="1:2:3">
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="sui-note_2x.png" crc="412446484" seo="true" ref="1:2:3">
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="kimmy-1.jpg" crc="3835457955" seo="true" ref="1">
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="sui-info.png" crc="258897558" seo="true" ref="1:2:3">
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="sui-info_2x.png" crc="21697254" seo="true" ref="1:2:3">
+      <caption webpage="1" alt=""/>
+      <caption webpage="2" alt=""/>
+      <caption webpage="3" alt=""/>
+    </file>
+    <file name="kimmy-2.jpg" crc="413041604" seo="true" ref="2">
+      <caption webpage="2" alt=""/>
+    </file>
+    <file name="kimmy-3.jpg" crc="453694513" seo="true" ref="3">
+      <caption webpage="3" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4248494089" seo="true" mt="1593989710211" redirect="false"/>
+  <file name="1.html" crc="3877215742" seo="true" mt="1594316515944" redirect="true"/>
+  <file name="2.html" crc="203683332" seo="true" mt="1594316412377" redirect="true"/>
+  <file name="3.html" crc="3763646115" seo="true" mt="1594316389377" redirect="true"/>
+</manifest>
